@@ -19,7 +19,6 @@
             <div class="div-center underline">
             </div>
             <p class="text-center intro">  This is the view of HOME</p>
-            <!--<p class="text-center nombre"> Miguel Espeso </p>-->
           </div>
         </div>
       </div>
